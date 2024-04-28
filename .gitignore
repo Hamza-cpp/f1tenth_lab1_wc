@@ -1,0 +1,17 @@
+.vscode
+__pycache__/
+
+
+# Distribution / packaging
+.Python
+build/
+install/
+log/
+lib/
+lib64/
+var/
+
+
+# Environments
+.env
+.venv/
