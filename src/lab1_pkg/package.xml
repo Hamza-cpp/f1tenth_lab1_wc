@@ -3,7 +3,7 @@
 <package format="3">
   <name>lab1_pkg</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>My solution for Lab 1: Intro to ROS2 and Docker for University of Pennsylvania course F1TENTH</description>
   <maintainer email="hamza.okhadir2018@gmail.com">hamza_ok</maintainer>
   <license>MIT</license>
 
